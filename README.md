@@ -19,7 +19,7 @@ looking at what's different, well, who knows?" -Meowth
 
 Certifications:
 
-- Certified Red Team Professional ([CRTP])
+- Certified Red Team Professional ([CRTP], expired)
 
 - Offensive Security Certified Expert ([OSCE])
 
@@ -27,10 +27,9 @@ Certifications:
 
 - Offensive Security Wireless Professional ([OSWP])
 
-- CCNA Routing and Switching (expired)
+- Cisco Certified Network Associate ([CCNA], expired)
 
-![Metrics](https://metrics.lecoq.io/mjwhitta?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=America%2FNew_York)
-
+[CCNA]: https://learningnetwork.cisco.com/s/ccna
 [CRTP]: https://www.credential.net/8d5c7efa-5a47-42aa-9917-f35e00f78750
 [OSCE]: https://www.offensive-security.com/ctp-osce
 [OSCP]: https://www.offensive-security.com/courses/pen-200
